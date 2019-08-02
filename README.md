@@ -1,6 +1,8 @@
 # Tutorial1
 My 1st Tutorial Repository
 
+In my way to become an Android application pro
+
 License:
 MIT License
 
